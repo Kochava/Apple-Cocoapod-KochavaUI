@@ -1,5 +1,6 @@
 import XCTest
-import Apple-Cocoapod-KochavaUI
+// import Apple-Cocoapod-KochavaUI
+import KochavaUI
 
 class Tests: XCTestCase {
     
