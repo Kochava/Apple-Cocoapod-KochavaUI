@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     The KochavaUI module of the Kochava Apple SDK provides user interface support.  This includes support or compatibility for iOS, macOS, macCatalyst, tvOS, and watchOS.  Complete user interface support is provided on iOS.
     DESC
 
-    s.homepage         = 'http://www.kochava.com'
+    s.homepage         = 'https://cocoapods.org/pods/Apple-Cocoapod-KochavaUI'
     s.license          = { :type => 'Commercial', :file => 'LICENSE' }
     s.author           = { 'Kochava' => 'support@kochava.com' }
     s.source           = { :git => 'https://github.com/Kochava/Apple-Cocoapod-KochavaUI.git', :tag => s.version.to_s }
