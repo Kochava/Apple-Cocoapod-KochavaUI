@@ -1,6 +1,6 @@
 {
   "name": "Apple-Cocoapod-KochavaUI",
-  "version": "6.1.1",
+  "version": "7.0.0",
   "summary": "The KochavaUI module of the Kochava SDK for Apple iOS, macOS, macCatalyst, tvOS, and watchOS.",
   "description": "The KochavaUI module of the Kochava Apple SDK provides user interface support.  This includes support or compatibility for iOS, macOS, macCatalyst, tvOS, and watchOS.  Complete user interface support is provided on iOS.",
   "homepage": "http://www.kochava.com",
@@ -13,12 +13,12 @@
   },
   "source": {
     "git": "https://github.com/Kochava/Apple-Cocoapod-KochavaUI.git",
-    "tag": "6.1.1"
+    "tag": "7.0.0"
   },
   "platforms": {
-    "ios": "10.3",
+    "ios": "12.4",
     "osx": "10.14",
-    "tvos": "10.2",
+    "tvos": "12.4",
     "watchos": "7.0"
   },
   "ios": {
@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "Apple-Cocoapod-KochavaCore": [
-      "~> 6.1.1"
+      "~> 7.0.0"
     ]
   },
   "vendored_frameworks": "Apple-Cocoapod-KochavaUI/Frameworks/KochavaUI.xcframework",
