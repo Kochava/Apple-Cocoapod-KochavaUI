@@ -3,7 +3,7 @@
   "version": "7.1.0",
   "summary": "The KochavaUI module of the Kochava SDK for Apple iOS, macOS, macCatalyst, tvOS, and watchOS.",
   "description": "The KochavaUI module of the Kochava Apple SDK provides user interface support.  This includes support or compatibility for iOS, macOS, macCatalyst, tvOS, and watchOS.  Complete user interface support is provided on iOS.",
-  "homepage": "https://cocoapods.org/pods/Apple-Cocoapod-KochavaUI",
+  "homepage": "https://github.com/Kochava/Apple-Cocoapod-KochavaUI",
   "license": {
     "type": "Commercial",
     "file": "LICENSE"
