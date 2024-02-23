@@ -7,7 +7,15 @@
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
-## Overview
+## Deprecation Notice
+
+This repository was deprecated on February 22, 2024.  Please instead use [Apple-SwiftPackage-KochavaUI-XCFramework](https://github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework).
+
+There is a process to migrate from v7.x to v8.x which for most integrations is expected to take about 15 minutes.
+
+For more information, please see [Migrating to v8](https://support.kochava.com/sdk-integration/ios-sdk-integration/ios-migrating-to-v8/).
+
+## KochavaUI
 
 The KochavaUI cocoapod is an optional module within the Kochava SDK providing user interface support.
 
